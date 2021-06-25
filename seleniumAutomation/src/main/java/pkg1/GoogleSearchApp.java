@@ -17,8 +17,9 @@ public class GoogleSearchApp {
 
 		// get the keyword
 		Scanner scan = new Scanner(System.in);
-		System.out.println("Enter the keyword in console");
-		String keyword = scan.nextLine();
+		//System.out.println("Enter the keyword in console");
+		//String keyword = scan.nextLine();
+		String keyword = "Angular";
 
 		// Search over your preferred search engine
 		String url = "https://www.google.com/search" + "?q=" + keyword;
