@@ -19,6 +19,7 @@ public class GoogleSearchApp {
 		Scanner scan = new Scanner(System.in);
 		//System.out.println("Enter the keyword in console");
 		//String keyword = scan.nextLine();
+		System.out.println("Intializer GoogleSearchApp");
 		String keyword = "Angular";
 
 		// Search over your preferred search engine
