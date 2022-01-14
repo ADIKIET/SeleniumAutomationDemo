@@ -5,13 +5,13 @@ This project takes a keyword as input then search on www.google.com and find the
 
 Example: Input Keyword: Angular
 
-Intializer GoogleSearchApp
-------------Unique Links-------------
-https://twitter.com/angular
-https://www.w3schools.com/angular
-https://angular.io
-https://github.com/angular/angular
-https://angularjs.org
+Intializer GoogleSearchApp <BR>
+------------Unique Links-------------<BR>
+https://twitter.com/angular <BR>
+https://www.w3schools.com/angular <BR>
+https://angular.io <BR>
+https://github.com/angular/angular <BR>
+https://angularjs.org <BR>
 
 
-Note: Gooogle chrome web browser is used here.
+Note: Google chrome web browser is used here.
